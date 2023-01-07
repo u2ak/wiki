@@ -17,3 +17,7 @@ Adds skill icons at the top of the bars.
 ### Show amount of hitpoints and prayer restored
 
 Visually shows how much a food or prayer will heal/restore you on the bars.
+
+### MOVE BARS
+
+Move the bars all over the screen, in classic and modern mode.
